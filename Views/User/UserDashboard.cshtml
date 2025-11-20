@@ -1,0 +1,22 @@
+﻿@* Views/User/Dashboard.cshtml *@
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<div>
+    <nav>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="PetSitters" asp-action="Index">Pet Sitters</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Bookings" asp-action="Index">Booking History</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Ratings" asp-action="Index">Ratings</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+

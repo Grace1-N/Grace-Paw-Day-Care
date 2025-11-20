@@ -1,0 +1,194 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('../Images/Brown and Khaki  Fun Modern Minimalist Cat Paws Desktop Wallpaper (1).png');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 120px;/* To push the content down*/ 
+}
+
+.Main-Heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: -webkit-xxx-large;
+    color: darkblue;
+}
+
+.Paragraph1 {
+    color: mediumblue;
+    font-size: 15px;
+}
+
+.navbar {
+    position: fixed; /* Make the navbar fixed */
+    top: 0; /* Position it at the top */
+    width: 100%; /* Ensure it takes the full width */
+    z-index: 1000; /* Keep it above other content */
+}
+
+/* Change background color on hover */
+.navbar-nav .nav-link:hover {
+    background-color: orange; /* Change to orange on hover */
+
+}
+
+/* Style for nav links */
+.nav-link {
+    color:mediumblue; /* mediumblue text color */
+    font-weight: bold; /* Make the font bold */
+}
+
+
+
+
+
+
+
+
+.Main-container {
+    padding: 20px; /* Padding for the main container */
+}
+
+.main-heading-container {
+    margin-bottom: 20px; /* Space below the main heading */
+}
+.main-image {
+    margin-right: 66px;
+    width: 300px;
+    border-radius: 150px;
+}
+
+.new-sitters-container, .whats-new-container {
+    margin-top: 40px; /* Space above these sections */
+
+}
+
+.sitter-box {
+    margin: 36px 55px; /* Margin between sitter boxes */
+    text-align: center; /* Center text in the box */
+    border:#ccc; /* Optional: Add border */
+    border-radius: 5px; /* Round corners */
+    padding: 10px; /* Inner padding */
+  
+}
+
+.sitter-image {
+    width: 265px;
+    height: 258px;
+    border-radius: 23%;
+}
+
+.new-sitters-container, .whats-new-container {
+    margin-top: 40px; /* Space above these sections */
+
+}
+
+.sitter-box {
+    margin: 36px 55px; /* Margin between sitter boxes */
+    text-align: center; /* Center text in the box */
+    border:#ccc; /* Optional: Add border */
+    border-radius: 5px; /* Round corners */
+    padding: 10px; /* Inner padding */
+  
+}
+
+.sitter-image {
+    width: 265px;
+    height: 258px;
+    border-radius: 23%;
+}
+
+.whats-new-box {
+    width: 207px;
+    height: 141px;
+    background-color: #e78b00;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(255, 165, 0, 0.6); /* Initial glow */
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transition for glow and scale */
+    cursor: pointer; /* Change cursor to indicate it's interactive */
+}
+
+    .whats-new-box:hover {
+        box-shadow: 0 0 20px rgba(255, 165, 0, 0.8), 0 0 30px rgba(255, 140, 0, 0.6); /* Stronger glow on hover */
+        transform: scale(1.05); /* Slightly enlarge the circle on hover */
+    }
+
+h3 {
+    color: mediumblue;
+    font-weight: 400;
+}
+
+h2.Main-Heading {
+    margin-top: 120px;
+    margin-bottom: 91px;
+}
+
+div {
+    width:-webkit-fill-available;
+    margin-left: 20px;
+}
+
+
+ p
+
+{
+    margin-bottom: 10px;
+    margin-top: 25px;
+    color: mediumblue;
+    font-size: x-large;
+}
+
+
+h3 {
+    color: mediumblue;
+    font-weight: 400;
+}
+
+h2.Main-Heading {
+    margin-top: 120px;
+    margin-bottom: 91px;
+}
+
+div {
+    width:-webkit-fill-available;
+    margin-left: 20px;
+}
+
+.whats-new-container p {
+    color: #ffffff; /* Text color for better contrast with background */
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+ p
+
+{
+    margin-bottom: 10px;
+    margin-top: 25px;
+    color: mediumblue;
+    font-size: x-large;
+}
+.container{
+    display:flex;
+}

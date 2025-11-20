@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|c:\\users\\pc\\source\\repos\\capstone project - 224465597\\grace\u0027s paw day care\\paw day care\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|solutionrelative:views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|c:\\users\\pc\\source\\repos\\capstone project - 224465597\\grace\u0027s paw day care\\paw day care\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|c:\\users\\pc\\source\\repos\\capstone project - 224465597\\grace\u0027s paw day care\\paw day care\\controllers\\petsitterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|solutionrelative:controllers\\petsitterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|c:\\users\\pc\\source\\repos\\capstone project - 224465597\\grace\u0027s paw day care\\paw day care\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|c:\\users\\pc\\source\\repos\\capstone project - 224465597\\grace\u0027s paw day care\\paw day care\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8502E12F-2477-48CF-8024-EA54A6E0303A}|Paw Day Care.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAALIAAAAAAAAAAAAmwMAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T19:49:39.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetSittersController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Controllers\\PetSittersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetSittersController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Controllers\\PetSittersController.cs",
+              "RelativeToolTip": "Controllers\\PetSittersController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Views\\User\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Views\\User\\UserDashboard.cshtml",
+              "RelativeToolTip": "Views\\User\\UserDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:56:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Capstone Project - 224465597\\Grace\u0027s Paw Day Care\\Paw Day Care\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:02:08.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
